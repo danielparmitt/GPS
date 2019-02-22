@@ -1,0 +1,22 @@
+{
+  "name": "olaClone",
+  "version": "1.0.0",
+  "description": "An app that tracks vehicles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vikrant",
+  "license": "ISC",
+  "devDependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "leaflet-moving-marker": "^0.3.0",
+    "leaflet-path-transform": "^1.1.2",
+    "leaflet-rotatedmarker": "^0.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
